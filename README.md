@@ -41,3 +41,4 @@ Abre el archivo index.html en tu navegador (puedes hacer doble clic sobre el arc
 Interacción con la aplicación:
 Escribe una tarea en el campo de texto y haz clic en "Agregar".
 Las tareas aparecerán listadas debajo, y podrás eliminarlas con el botón "Eliminar".
+
